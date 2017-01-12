@@ -1,0 +1,3 @@
+browserName=firefox
+browserBin=file:src/test/resources/drivers/geckodriver.exe
+nativeEvents=false

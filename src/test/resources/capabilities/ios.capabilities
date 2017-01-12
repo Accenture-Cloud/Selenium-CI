@@ -1,0 +1,4 @@
+browserName=ios
+supportedApp=file:src/test/resources/sampleapps/UICatalog.app
+iosServerPort=4444
+simulator=false

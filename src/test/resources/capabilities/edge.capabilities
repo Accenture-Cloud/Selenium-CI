@@ -1,0 +1,3 @@
+browserName=MicrosoftEdge
+browserBin=file:src/test/resources/drivers/edgedriver.exe
+requireWindowFocus=true

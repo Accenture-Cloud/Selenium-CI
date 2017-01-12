@@ -1,0 +1,3 @@
+browserName=internet explorer
+browserBin=file:src/test/resources/drivers/iedriver.exe
+requireWindowFocus=true

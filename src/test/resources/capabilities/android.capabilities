@@ -1,0 +1,5 @@
+browserName=android
+supportedApp=src/test/resources/sampleapps/employee-directory.apk
+androidServerPort=8888
+aut=io.selendroid.directory:0.0.1
+emulator=false

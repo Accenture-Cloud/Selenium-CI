@@ -1,0 +1,2 @@
+browserName=chrome
+browserBin=file:src/test/resources/drivers/chromedriver.exe

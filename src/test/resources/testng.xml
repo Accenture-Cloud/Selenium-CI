@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Tests" verbose="5">
+  <listeners>
+    <listener class-name="org.accenture.cloud.util.CustomReporter" />
+  </listeners>
+
+  <test name="PromotionCalendarTestCase" enabled="false">
+    <classes>
+      <class name="org.accenture.cloud.LoginTest"/>
+      <class name="org.accenture.cloud.PromotionCalendarTest"/>
+    </classes>
+  </test>
+
+  <test name="EmployeeDirectoryTestCase">
+    <classes>
+      <class name="org.accenture.cloud.EmployeeDirectoryTest"/>
+    </classes>
+  </test>
+</suite>

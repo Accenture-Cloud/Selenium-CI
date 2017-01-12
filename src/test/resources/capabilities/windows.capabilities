@@ -1,0 +1,3 @@
+browserName=windows
+browserBin=file:src/test/resources/drivers/winiumdriver/Winium.Mobile.Driver.exe
+supportedApp=file:src/test/resources/windows-app-sample.appx
